@@ -8,11 +8,11 @@ Desse modo, o objetivo destas aplicações foram a comparação entre uma câmer
 </p>
 
 <p align="justify">
-Foram realizados 6 datasets, variando condições de altura e luminosidade específicas, para que através das métricas retiradas pelos códigos de análise fosse possível chegar a conclusões de quais câmeras seriam as mais adequadas para as aplicações propostas, na utilização da segmentação de instâncias, uma técnica sofisticada em visão computacional (CV) que envolve a partição de uma imagem digital em múltiplos subgrupos de pixels, frequentemente chamados de segmentos ou regiões de imagem. Para alcançar essa compreensão, modelos de segmentação utilizam arquiteturas de aprendizado profundo (DL), especialmente as Redes Neurais Convolucionais (CNNs), que atuam como extratores de características, identificando padrões como bordas, texturas e formas complexas. 
+Foram realizados 6 datasets, variando condições de altura e luminosidade específicas, para que através das métricas retiradas pelos códigos de análise fosse possível chegar a conclusões de quais câmeras seriam as mais adequadas para as aplicações propostas, na utilização da segmentação de instâncias, uma técnica em visão computacional (CV) que envolve a partição de uma imagem digital em múltiplos subgrupos de pixels, frequentemente chamados de segmentos ou regiões de imagem. Para alcançar essa compreensão, modelos de segmentação utilizam arquiteturas de aprendizado profundo (DL), especialmente as Redes Neurais Convolucionais (CNNs), que atuam como extratores de características, identificando padrões como bordas, texturas e formas complexas. 
 </p>
 
 <p align="justify">
-Nas aplicações realizadas, a principal análise baseou-se na fidelidade das segmentações inferidas pelos modelos quando comparadas com as originais nos quais eles foram treinados. Foi utilizada a programação em Python e as plataformas VS Code e Roboflow para o trabalho com os datasets e códigos, além da própria segmentação das imagens. Como pode-se visualizar nas imagens a seguir, nas quais variaram condições de altura no dataset: 
+Nas aplicações realizadas, a principal análise baseou-se na fidelidade das segmentações inferidas pelos modelos quando comparadas com as originais nos quais eles foram treinados. Foi utilizada a programação em Python e as plataformas Visual Studio Code e Roboflow para o trabalho com os datasets e códigos, além da própria segmentação das imagens. Como pode-se visualizar nas imagens a seguir, nas quais variaram condições de altura no dataset: 
 </p>
 
 ![Exemplo de segmentação utilizando a RealSense D400 em imagens com variações de altura](Imagens/Exemplos_RealSense.png)
