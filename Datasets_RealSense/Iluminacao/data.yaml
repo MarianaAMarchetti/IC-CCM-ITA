@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Cilindro', 'Esfera', 'Paralelepipedo', 'Piramide', 'Prisma_hexagonal']
+
+roboflow:
+  workspace: minha-rea-de-trabalho-iabxh
+  project: iluminacao_realsense
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/minha-rea-de-trabalho-iabxh/iluminacao_realsense/dataset/1
