@@ -21,7 +21,7 @@ Nas aplicações realizadas, a principal análise baseou-se na fidelidade das se
 <p align="justify">
 Espera-se que com os resultados obtidos possa ter-se alcançado boas conclusões, que possam contribuir para o desenvolvimento e maior conhecimento acadêmico das aplicações de visão computacional. 
 
-Muito obrigada. 
+Muito obrigada, teste. 
 </p>
 
 
